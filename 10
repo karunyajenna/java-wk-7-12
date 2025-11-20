@@ -1,0 +1,14 @@
+What is an App?
+An app is a software program designed to perform specific tasks for users. It runs on devices like smartphones, tablets, or computers and can be downloaded from app stores. Apps serve different purposes such as communication, entertainment, and education. They offer easy-to-use interfaces to solve user problems. Overall, an app helps users complete tasks more efficiently.
+---
+2) What is Android? Explain its features.
+Android is an open-source mobile operating system developed by Google and used on smartphones, tablets, smart TVs, and wearables. It supports multitasking, allowing multiple apps to run at the same time. Android provides a customizable interface with widgets and home screens. It also offers strong security features and frequent updates. A large app ecosystem is available through the Google Play Store.
+---
+3) What is Flutter? Write any 2 advantages of using Flutter.
+Flutter is an open-source UI toolkit by Google used to build apps for mobile, web, and desktop using a single codebase. It uses the Dart programming language and provides fast development with features like Hot Reload. Flutter offers smooth performance because it compiles to native code. One advantage is that it allows building apps for multiple platforms with one codebase. Another advantage is that it provides rich, customizable widgets for beautiful UI.
+---
+4) What are the main stages in developing an app?
+Developing an app starts with requirement gathering to understand user needs. Next, designers create layouts and user interfaces for the app. Developers then write the code to build all features. The app is tested to fix bugs and ensure smooth performance. Finally, it is deployed to app stores and maintained with updates.
+---
+5) Give one practical application of Flask.
+Flask is used to develop lightweight and flexible web applications. It is ideal for building REST APIs that connect mobile or web apps to a backend. Developers use Flask to build dashboards, authentication systems, and data-based tools. It supports extensions that make adding features easy. A practical example is using Flask to create a login system for a website.
